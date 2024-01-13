@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Lava2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -7958378187752714769, guid: 34d35054d02d4274186757b759c7b659, type: 3}
+  - {fileID: 2752175386321947757, guid: 392863ff0da729945a837792cf9c246e, type: 3}
+  - {fileID: -3326240503224989417, guid: 19a62f070ab101540ba9394833a83871, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
